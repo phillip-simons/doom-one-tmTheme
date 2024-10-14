@@ -1,0 +1,10 @@
+#+TITLE: doom-one-sublime
+#+AUTHOR: Phillip Simons
+#+DATE: <2024-10-14>
+#+OPTIONS: num:nil toc:nil
+
+* Project Overview
+Doom-One theme in .tmTheme format. Converted from [[https://github.com/NTBBloodbath/doom-one-vscode][NTBBloodbath/doom-one-vscode]]
+
+* License
+This project is licensed under the MIT License . See the LICENSE file for more information.
