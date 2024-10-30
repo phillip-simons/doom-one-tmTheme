@@ -1,4 +1,4 @@
-#+TITLE: doom-one-sublime
+#+TITLE: doom-one-tmTheme
 #+AUTHOR: Phillip Simons
 #+DATE: <2024-10-14>
 #+OPTIONS: num:nil toc:nil
